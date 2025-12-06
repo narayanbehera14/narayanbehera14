@@ -1,55 +1,72 @@
-👋 Welcome to My GitHub Profile!
 
-Hi there! I'm Narayan Behera, a passionate developer currently growing in Full Stack Development and pursuing my MCA. I enjoy building efficient applications, crafting clean user interfaces, and solving coding challenges to sharpen my logical thinking.
+# 👋 Welcome to My GitHub Profile!
 
-🚀 About Me 
-______________________________________________________________________________________________________________________________________________________________
+Hi there! I'm **Narayan Behera**, a passionate developer currently growing in **Full Stack Development** and pursuing my MCA. I enjoy building efficient applications, crafting clean user interfaces, and solving coding challenges to sharpen my logical thinking.
 
-🎓 Education:
+---
 
-Master of Computer Applications (Pursuing), Amity University, Mumbai
+## 🚀 About Me
 
-Bachelor of Science in Computer Science, MVLU College, Mumbai
+---
 
-______________________________________________________________________________________________________________________________________________________________
+### 🎓 Education:
 
-💻 Current Focus:
+* Master of Computer Applications (Pursuing), **Amity University, Mumbai**
+* Bachelor of Science in Computer Science, **MVLU College, Mumbai**
 
-Enhancing full stack skills with React, JavaScript, and Node.js
+---
 
-Practicing Data Structures & Algorithms on LeetCode
+### 💻 Current Focus:
 
-______________________________________________________________________________________________________________________________________________________________
+* Enhancing full stack skills with **React**, **JavaScript**, and **Node.js**
+* Practicing **Data Structures & Algorithms** on LeetCode
 
-🌟 Skills:
+---
 
-Frontend: HTML, CSS, JavaScript, React
+### 🌟 Skills:
 
-Backend: Node.js
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Backend:** Node.js
+* **Databases:** SQL
+* **Programming:** Python
+* **Tools:** Git, GitHub, APIs
 
-Databases: SQL
+---
 
-Programming: Python
+## 🛠 Projects:
 
-Tools: Git, GitHub, APIs
+* Canteen Management System — CRUD-based student management
+* Portfolio Website — Showcasing skills, work & achievements
 
-_____________________________________________________________________________________________________________________________________________________________
+---
 
-🛠 Projects:
+## 📊 LeetCode:
 
-Canteen Management System — CRUD-based student management
+Solving DSA challenges consistently to improve problem-solving skills.
+**LeetCode:** [https://leetcode.com/u/narayanbehera/](https://leetcode.com/u/narayanbehera/)
 
-Portfolio Website — Showcasing skills, work & achievements
+---
 
-______________________________________________________________________________________________________________________________________________________________
+## 📬 Connect With Me:
 
+* **Email:** [beheranarayancs222330@gmail.com](mailto:beheranarayancs222330@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/narayan-behera-a8bbab262/](https://www.linkedin.com/in/narayan-behera-a8bbab262/)
 
-📊 LeetCode:
+---
 
-🧩 DSA & LeetCode
+⭐ *Thanks for visiting! Feel free to explore my repositories and star the ones you like.*
 
-Currently solving structured problems to build strong problem-solving skills.
-🔗 LeetCode Profile: https://leetcode.com/u/narayanbehera/
+---
+
+If you want, I can also add:
+✔ GitHub Stats
+✔ Activity Graph
+✔ Skill Badges
+✔ Visitor Count Badge
+✔ Typing Animation Header
+
+Just tell me!
+
 
 _____________________________________________________________________________________________________________________________________________________________
 
