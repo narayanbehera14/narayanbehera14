@@ -1,3 +1,14 @@
+Great! Here is your **GitHub README** updated with:
+
+✅ GitHub Stats
+✅ Badges
+✅ LeetCode Stats Card
+✅ Profile Views + GitHub Streak + Most Used Languages
+✅ Clean, modern layout
+
+You can **copy–paste this entire block** into your README.md:
+
+---
 
 # 👋 Welcome to My GitHub Profile!
 
@@ -7,27 +18,47 @@ Hi there! I'm **Narayan Behera**, a passionate developer currently growing in **
 
 ## 🚀 About Me
 
+---
 
-
-* ### 🎓 Education:
+### 🎓 Education:
 
 * Master of Computer Applications (Pursuing), **Amity University, Mumbai**
 * Bachelor of Science in Computer Science, **MVLU College, Mumbai**
 
+---
 
-* ### 💻 Current Focus:
+### 💻 Current Focus:
 
 * Enhancing full stack skills with **React**, **JavaScript**, and **Node.js**
 * Practicing **Data Structures & Algorithms** on LeetCode
 
+---
 
-* ### 🌟 Skills:
+### 🌟 Skills:
 
-* **Frontend:** HTML, CSS, JavaScript, React
-* **Backend:** Node.js
-* **Databases:** SQL
-* **Programming:** Python
-* **Tools:** Git, GitHub, APIs
+#### 💻 Frontend
+
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+
+#### 🖥️ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js)
+
+#### 🗄 Databases
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql)
+
+#### 🧑‍💻 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+
+#### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 ---
 
@@ -38,10 +69,51 @@ Hi there! I'm **Narayan Behera**, a passionate developer currently growing in **
 
 ---
 
-## 📊 LeetCode:
+# 📊 GitHub Stats
 
-Solving DSA challenges consistently to improve problem-solving skills.
-**LeetCode:** [https://leetcode.com/u/narayanbehera/](https://leetcode.com/u/narayanbehera/)
+<div align="center">
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=narayanbehera\&theme=tokyonight\&hide_border=true)
+
+### 📈 GitHub Stats Card
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=narayanbehera\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+### 🧠 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=narayanbehera\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+# 🧩 LeetCode Stats
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/narayanbehera?theme=dark\&border=0\&radius=20)
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=narayanbehera\&color=blue\&style=flat)
+
+---
+
+If you want, I can also add:
+
+✨ Animated typing header
+📦 Project showcase cards
+🎨 Custom banner
+🟦 Dark/Light mode auto badges
+
+Just tell me—I'm ready!
+
 
 ---
 
