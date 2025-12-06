@@ -9,19 +9,19 @@ Hi there! I'm **Narayan Behera**, a passionate developer currently growing in **
 
 
 
-*### 🎓 Education:
+* ### 🎓 Education:
 
 * Master of Computer Applications (Pursuing), **Amity University, Mumbai**
 * Bachelor of Science in Computer Science, **MVLU College, Mumbai**
 
 
-*### 💻 Current Focus:
+* ### 💻 Current Focus:
 
 * Enhancing full stack skills with **React**, **JavaScript**, and **Node.js**
 * Practicing **Data Structures & Algorithms** on LeetCode
 
 
-*### 🌟 Skills:
+* ### 🌟 Skills:
 
 * **Frontend:** HTML, CSS, JavaScript, React
 * **Backend:** Node.js
