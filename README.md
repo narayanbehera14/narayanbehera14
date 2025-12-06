@@ -1,48 +1,57 @@
 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm Narayan Behera, a passionate Full Stack Developer in progress and an MCA student at Amity University, Mumbai. I love building efficient applications, crafting clean UIs, and strengthening my problem-solving skills through real-world projects and DSA practice.
+Hi there! I'm Narayan Behera, a passionate developer currently growing in Full Stack Development and pursuing my MCA. I enjoy building efficient applications, crafting clean user interfaces, and solving coding challenges to sharpen my logical thinking.
 
-🚀 About Me
-🎓 Education
+🚀 About Me 
+______________________________________________________________________________________________________________________________________________________________
 
-Master of Computer Applications (Pursuing) — Amity University, Mumbai
+🎓 Education:
 
-Bachelor of Science in Computer Science — MVLU College, Mumbai
+Master of Computer Applications (Pursuing), Amity University, Mumbai
 
-💻 Current Focus
+Bachelor of Science in Computer Science, MVLU College, Mumbai
 
-Advancing skills in Full Stack Development
+______________________________________________________________________________________________________________________________________________________________
+
+💻 Current Focus:
+
+Enhancing full stack skills with React, JavaScript, and Node.js
 
 Practicing Data Structures & Algorithms on LeetCode
 
-Building real-world projects and improving system design understanding
+______________________________________________________________________________________________________________________________________________________________
 
-🌟 Skills
-Frontend : HTML • CSS • JavaScript • React
+🌟 Skills:
+
+Frontend: HTML, CSS, JavaScript, React
 
 Backend: Node.js
 
-Databases: MYSQL
+Databases: SQL
 
 Programming: Python
 
-Tools & Technologies : Git • GitHub • APIs
+Tools: Git, GitHub, APIs
 
-🛠️ Projects
+_____________________________________________________________________________________________________________________________________________________________
 
-Some of my favorite and recent projects:
+🛠 Projects:
 
-🔹 Canteen Management System — CRUD-based system for student record handling
+Canteen Management System — CRUD-based student management
 
-🔹 Portfolio Website — A personal website showcasing skills, projects & achievements
+Portfolio Website — Showcasing skills, work & achievements
 
-🔹 (Add more projects — I can format them if you share names)
+______________________________________________________________________________________________________________________________________________________________
+
+
+📊 LeetCode:
 
 🧩 DSA & LeetCode
 
 Currently solving structured problems to build strong problem-solving skills.
 🔗 LeetCode Profile: https://leetcode.com/u/narayanbehera/
 
+_____________________________________________________________________________________________________________________________________________________________
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liju_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narayan-behera-a8bbab262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beheranarayancs222330@gmail.com) 
@@ -57,6 +66,7 @@ Currently solving structured problems to build strong problem-solving skills.
 ---
 [![](https://visitcount.itsvg.in/api?id=narayanbehera14&icon=0&color=0)](https://visitcount.itsvg.in)
 
+_____________________________________________________________________________________________________________________________________________________________
 📬 Connect With Me
 
 📧 Email: beheranarayancs222330@gmail.com
