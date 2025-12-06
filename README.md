@@ -1,46 +1,47 @@
-👋 Hi, I'm Narayan Behera
-🚀 MCA Student | Full Stack Developer | Problem Solver
+👋 Welcome to My GitHub Profile!
 
-Welcome to my GitHub! I’m a passionate developer currently pursuing my Master of Computer Applications (MCA) at Amity University, Mumbai. I love building meaningful projects, solving coding challenges, and continuously improving my development skills.
+Hi there! I'm Narayan Behera, a passionate Full Stack Developer in progress and an MCA student at Amity University, Mumbai. I love building efficient applications, crafting clean UIs, and strengthening my problem-solving skills through real-world projects and DSA practice.
 
+🚀 About Me
 🎓 Education
 
-MCA (Pursuing) — Amity University, Mumbai
+Master of Computer Applications (Pursuing) — Amity University, Mumbai
 
-B.Sc. Computer Science — MVLU College, Mumbai
+Bachelor of Science in Computer Science — MVLU College, Mumbai
 
 💻 Current Focus
 
-Learning & building in Full Stack Development
+Advancing skills in Full Stack Development
 
-Practicing DSA on LeetCode
+Practicing Data Structures & Algorithms on LeetCode
 
-Improving problem-solving and analytical thinking
+Building real-world projects and improving system design understanding
 
 🌟 Skills
-
-Frontend: HTML, CSS, JavaScript, React
+Frontend : HTML • CSS • JavaScript • React
 
 Backend: Node.js
 
-Database: SQL
+Databases: MYSQL
 
 Programming: Python
 
-Tools: Git, GitHub, APIs
+Tools & Technologies : Git • GitHub • APIs
 
 🛠️ Projects
 
-🔹 Canteen Management System — CRUD-based student record management
+Some of my favorite and recent projects:
 
-🔹 Portfolio Website — Showcasing my skills, journey & projects
+🔹 Canteen Management System — CRUD-based system for student record handling
 
-📊 LeetCode Progress
+🔹 Portfolio Website — A personal website showcasing skills, projects & achievements
 
-I regularly solve DSA problems to strengthen my logic and competitive coding skills.
+🔹 (Add more projects — I can format them if you share names)
 
-🔗 LeetCode Profile:
-https://leetcode.com/u/narayanbehera/
+🧩 DSA & LeetCode
+
+Currently solving structured problems to build strong problem-solving skills.
+🔗 LeetCode Profile: https://leetcode.com/u/narayanbehera/
 
 
 ## 🌐 Socials:
@@ -56,6 +57,11 @@ https://leetcode.com/u/narayanbehera/
 ---
 [![](https://visitcount.itsvg.in/api?id=narayanbehera14&icon=0&color=0)](https://visitcount.itsvg.in)
 
+📬 Connect With Me
+
+📧 Email: beheranarayancs222330@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/narayan-behera-a8bbab262/
 
 ⭐ Thank you for visiting my profile! If you like my work, consider giving a star to my repositories.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
