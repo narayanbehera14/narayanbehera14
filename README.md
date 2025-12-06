@@ -42,12 +42,6 @@ Hi there! I'm **Narayan Behera**, a passionate developer currently growing in **
 
 ---
 
-# 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=narayanbehera\&color=blue\&style=flat)
-
----
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liju_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narayan-behera-a8bbab262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beheranarayancs222330@gmail.com) 
 
@@ -65,6 +59,12 @@ Hi there! I'm **Narayan Behera**, a passionate developer currently growing in **
 
 * **Email:** [beheranarayancs222330@gmail.com](mailto:beheranarayancs222330@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/narayan-behera-a8bbab262/](https://www.linkedin.com/in/narayan-behera-a8bbab262/)
+
+* # 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=narayanbehera\&color=blue\&style=flat)
+
+---
 
 ⭐ Thank you for visiting my profile! If you like my work, consider giving a star to my repositories.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
