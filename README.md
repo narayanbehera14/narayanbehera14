@@ -35,6 +35,13 @@ Tools: Git, GitHub, APIs
 
 🔹 Portfolio Website — Showcasing my skills, journey & projects
 
+📊 LeetCode Progress
+
+I regularly solve DSA problems to strengthen my logic and competitive coding skills.
+
+🔗 LeetCode Profile:
+https://leetcode.com/u/narayanbehera/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liju_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narayan-behera-a8bbab262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beheranarayancs222330@gmail.com) 
