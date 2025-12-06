@@ -20,9 +20,13 @@ Improving problem-solving and analytical thinking
 🌟 Skills
 
 Frontend: HTML, CSS, JavaScript, React
+
 Backend: Node.js
+
 Database: SQL
+
 Programming: Python
+
 Tools: Git, GitHub, APIs
 
 🛠️ Projects
