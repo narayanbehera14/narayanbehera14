@@ -1,58 +1,18 @@
-👋 Welcome to My GitHub Profile!
-
-Hi there! I'm Narayan Behera, a passionate Computer Science enthusiast currently pursuing my Master of Computer Applications (MCA) at Amity University, Mumbai. I enjoy building efficient solutions, solving coding challenges, and exploring full-stack development.
-
-🚀 About Me
-
-🎓 Education
-
-Bachelor of Science in Computer Science (B.Sc. CS), MVLU College, Mumbai
-
-Currently pursuing Master of Computer Applications (MCA), Amity University, Mumbai
-
-💻 Current Focus
-
-Advancing my knowledge in Full Stack Development
-
-Practicing Data Structures & Algorithms on LeetCode
-
-Strengthening problem-solving and analytical skills
-
-🌟 Skills
-
-Frontend: HTML, CSS, JavaScript, React
-
-Backend: Node.js
-
-Databases: SQL
-
-Programming Languages:  Python
-
-Other: Git, GitHub, APIs
-
-🛠️ Projects
-
-Here are some of my works and learning projects:
-
-🔹 Canteen Management System – CRUD app for handling student records
-
-🔹 Portfolio Website – Personal portfolio showcasing projects & achievements
-
-📊 LeetCode Progress
-
-I am actively solving problems on LeetCode to sharpen my DSA skills.
-
-📜 LeetCode Profile : https://leetcode.com/u/narayanbehera/
-
-📈 GitHub Stats
+# 💫 About Me:
+👋 Welcome to My GitHub Profile!<br><br>Hi there! I'm Narayan Behera, a passionate Computer Science enthusiast currently pursuing my Master of Computer Applications (MCA) at Amity University, Mumbai. I enjoy building efficient solutions, solving coding challenges, and exploring full-stack development.<br><br>🚀 About Me<br><br>🎓 Education<br><br>Bachelor of Science in Computer Science (B.Sc. CS), MVLU College, Mumbai<br><br>Currently pursuing Master of Computer Applications (MCA), Amity University, Mumbai<br><br>💻 Current Focus<br><br>Advancing my knowledge in Full Stack Development<br><br>Practicing Data Structures & Algorithms on LeetCode<br><br>Strengthening problem-solving and analytical skills<br><br>🌟 Skills<br><br>Frontend: HTML, CSS, JavaScript, React<br><br>Backend: Node.js<br><br>Databases: SQL<br><br>Programming Languages: Python<br><br>Other: Git, GitHub, APIs<br><br>🛠️ Projects<br><br>Here are some of my works and learning projects:<br><br>🔹 Canteen Management System – CRUD app for handling student records<br><br>🔹 Portfolio Website – Personal portfolio showcasing projects & achievements<br><br>📊 LeetCode Progress<br><br>I am actively solving problems on LeetCode to sharpen my DSA skills.<br><br>📜 LeetCode Profile : https://leetcode.com/u/narayanbehera/<br><br>📈 GitHub Stats<br><br>📬 Connect with Me<br><br>📧 Email: beheranarayancs222330@gmail.com<br><br>🔗 LinkedIn: Narayan Behera : https://www.linkedin.com/in/narayan-behera-a8bbab262/<br><br>⭐ Thanks for visiting my profile! Don’t forget to star ⭐ my repositories if you find them usef
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/liju_02/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/narayan-behera-a8bbab262/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beheranarayancs222330@gmail.com) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=narayanbehera14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=narayanbehera14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=narayanbehera14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-📬 Connect with Me
+---
+[![](https://visitcount.itsvg.in/api?id=narayanbehera14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📧 Email: beheranarayancs222330@gmail.com
-
-🔗 LinkedIn: Narayan Behera : https://www.linkedin.com/in/narayan-behera-a8bbab262/
-
-⭐ Thanks for visiting my profile! Don’t forget to star ⭐ my repositories if you find them useful!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
