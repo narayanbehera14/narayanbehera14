@@ -1,5 +1,35 @@
-# 💫 About Me:
-👋 Welcome to My GitHub Profile!<br><br>Hi there! I'm Narayan Behera, a passionate Computer Science enthusiast currently pursuing my Master of Computer Applications (MCA) at Amity University, Mumbai. I enjoy building efficient solutions, solving coding challenges, and exploring full-stack development.<br><br>🚀 About Me<br><br>🎓 Education<br><br>Bachelor of Science in Computer Science (B.Sc. CS), MVLU College, Mumbai<br><br>Currently pursuing Master of Computer Applications (MCA), Amity University, Mumbai<br><br>💻 Current Focus<br><br>Advancing my knowledge in Full Stack Development<br><br>Practicing Data Structures & Algorithms on LeetCode<br><br>Strengthening problem-solving and analytical skills<br><br>🌟 Skills<br><br>Frontend: HTML, CSS, JavaScript, React<br><br>Backend: Node.js<br><br>Databases: SQL<br><br>Programming Languages: Python<br><br>Other: Git, GitHub, APIs<br><br>🛠️ Projects<br><br>Here are some of my works and learning projects:<br><br>🔹 Canteen Management System – CRUD app for handling student records<br><br>🔹 Portfolio Website – Personal portfolio showcasing projects & achievements<br><br>📊 LeetCode Progress<br><br>I am actively solving problems on LeetCode to sharpen my DSA skills.<br><br>📜 LeetCode Profile : https://leetcode.com/u/narayanbehera/<br><br>📈 GitHub Stats<br><br>📬 Connect with Me<br><br>📧 Email: beheranarayancs222330@gmail.com<br><br>🔗 LinkedIn: Narayan Behera : https://www.linkedin.com/in/narayan-behera-a8bbab262/<br><br>⭐ Thanks for visiting my profile! Don’t forget to star ⭐ my repositories if you find them usef
+👋 Hi, I'm Narayan Behera
+🚀 MCA Student | Full Stack Developer | Problem Solver
+
+Welcome to my GitHub! I’m a passionate developer currently pursuing my Master of Computer Applications (MCA) at Amity University, Mumbai. I love building meaningful projects, solving coding challenges, and continuously improving my development skills.
+
+🎓 Education
+
+MCA (Pursuing) — Amity University, Mumbai
+
+B.Sc. Computer Science — MVLU College, Mumbai
+
+💻 Current Focus
+
+Learning & building in Full Stack Development
+
+Practicing DSA on LeetCode
+
+Improving problem-solving and analytical thinking
+
+🌟 Skills
+
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js
+Database: SQL
+Programming: Python
+Tools: Git, GitHub, APIs
+
+🛠️ Projects
+
+🔹 Canteen Management System — CRUD-based student record management
+
+🔹 Portfolio Website — Showcasing my skills, journey & projects
 
 
 ## 🌐 Socials:
