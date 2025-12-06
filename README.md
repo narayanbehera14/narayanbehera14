@@ -7,23 +7,21 @@ Hi there! I'm **Narayan Behera**, a passionate developer currently growing in **
 
 ## 🚀 About Me
 
----
 
-### 🎓 Education:
+
+*### 🎓 Education:
 
 * Master of Computer Applications (Pursuing), **Amity University, Mumbai**
 * Bachelor of Science in Computer Science, **MVLU College, Mumbai**
 
----
 
-### 💻 Current Focus:
+*### 💻 Current Focus:
 
 * Enhancing full stack skills with **React**, **JavaScript**, and **Node.js**
 * Practicing **Data Structures & Algorithms** on LeetCode
 
----
 
-### 🌟 Skills:
+*### 🌟 Skills:
 
 * **Frontend:** HTML, CSS, JavaScript, React
 * **Backend:** Node.js
@@ -47,13 +45,6 @@ Solving DSA challenges consistently to improve problem-solving skills.
 
 ---
 
-## 📬 Connect With Me:
-
-* **Email:** [beheranarayancs222330@gmail.com](mailto:beheranarayancs222330@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/narayan-behera-a8bbab262/](https://www.linkedin.com/in/narayan-behera-a8bbab262/)
-
----
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/liju_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narayan-behera-a8bbab262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beheranarayancs222330@gmail.com) 
 
@@ -66,6 +57,13 @@ Solving DSA challenges consistently to improve problem-solving skills.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=narayanbehera14&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 📬 Connect With Me:
+
+* **Email:** [beheranarayancs222330@gmail.com](mailto:beheranarayancs222330@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/narayan-behera-a8bbab262/](https://www.linkedin.com/in/narayan-behera-a8bbab262/)
 
 ⭐ Thank you for visiting my profile! If you like my work, consider giving a star to my repositories.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
