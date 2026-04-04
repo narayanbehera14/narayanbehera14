@@ -71,11 +71,22 @@
 
 ## 💼 Featured Projects
 
-### 🍽️ Canteen Management System  
-CRUD-based student & canteen management system  
+## 🌍 YourTourGuide  
 
-### 🌐 Portfolio Website  
-Personal portfolio showcasing projects & skills  
+A modern Mumbai travel web app with clean UI, smart filters & serverless backend ☁️  
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🔗 Live
+👉 [Live Demo](https://lnkd.in/dfuub_z5) • [GitHub Repo](https://lnkd.in/d39q3syN)
+
+⭐ Explore • 🔍 Search • 🔐 Auth • 📱 Responsive  
+
+🤝 Built with support from **Sarvan Maurya** 
 
 ---
 
