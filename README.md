@@ -81,12 +81,12 @@ A modern Mumbai travel web app with clean UI, smart filters & serverless backend
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🔗 Live
-👉 [Live Demo](https://lnkd.in/dfuub_z5) • [GitHub Repo](https://lnkd.in/d39q3syN)
+### 🔗 Links
+👉 [Live Demo](https://your-tour-guide-2ffo.vercel.app/)  
+👉 [GitHub Repo](https://github.com/narayanbehera14/Your_Tour_Guide)  
+👉 [Project README](https://github.com/narayanbehera14/Your_Tour_Guide/blob/main/README.md)
 
 ⭐ Explore • 🔍 Search • 🔐 Auth • 📱 Responsive  
-
-🤝 Built with support from **Sarvan Maurya** 
 
 ---
 
