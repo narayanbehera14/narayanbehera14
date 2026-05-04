@@ -7,10 +7,6 @@
 ### ⚙️ Aspiring DevOps & CloudOps Engineer ☁️  
 ### 💻 Full Stack Developer | 🚀 Open to DevOps & SDE Roles  
 
-<img src="https://komarev.com/ghpvc/?username=narayanbehera14&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/narayanbehera14?label=Followers&style=for-the-badge&color=1f6feb" />
-<img src="https://img.shields.io/github/stars/narayanbehera14?style=for-the-badge&color=f59e0b" />
-
 </div>
 
 ---
