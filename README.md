@@ -66,6 +66,24 @@
 ---
 
 ## 💼 Featured Projects
+---
+
+## ☁️ Serverless Contact Form Website
+
+A serverless contact form application built using AWS cloud services for scalable and secure form handling 🚀
+
+![AWS](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+### 🔗 Links
+👉 [Live Demo](http://narayan-contact-form-project.s3-website.ap-south-1.amazonaws.com/contact-form-aws/)  
+👉 [GitHub Repo](https://github.com/narayanbehera14/Serverless-Contact-Form-Website)
+
+⭐ Serverless • ☁️ AWS • 🔗 API Gateway • ⚡ Lambda • 🗄️ DynamoDB
+
+---
 
 ## 🌍 YourTourGuide  
 
