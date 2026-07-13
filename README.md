@@ -121,11 +121,9 @@ https://github.com/narayanbehera14/Your_Tour_Guide
 
 # 📚 Certifications
 
-- ✅ AWS Cloud Practitioner
-- ✅ AWS Educate Cloud Operations
-- ✅ AWS Accreditation
-- ✅ Docker Fundamentals
-- ✅ Jenkins Fundamentals
+- 🏅 AWS Partner: Technical Accredited – Training Badge
+- 🏅 Free AWS Certificate Course – Intellipaat
+- 🏅 Free DevOps Course Certification – Intellipaat
 
 ---
 
@@ -199,6 +197,16 @@ https://github.com/narayanbehera14/Your_Tour_Guide
 # 🤝 Let's Connect
 
 <div align="center">
+
+# 🌐 Portfolio
+
+<div align="center">
+
+🌍 **Portfolio Website**
+
+🔗 (https://my-portfolio-zeta-six-71.vercel.app/)
+
+</div>
 
 <a href="mailto:beheranarayancs222330@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
