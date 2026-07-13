@@ -1,158 +1,219 @@
 <div align="center">
 
-# Hi 👋, I'm Narayan Behera
+# Hi 👋 I'm Narayan Behera
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Aspiring+DevOps+%26+CloudOps+Engineer;AWS+%7C+Jenkins+%7C+Docker+%7C+Kubernetes;React+%7C+Python+Developer;CI%2FCD+%7C+Linux+%7C+Git+%26+GitHub;Open+to+DevOps+%26+SDE+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Aspiring+DevOps+%26+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins;React+%7C+Python+Developer;Linux+%7C+CI%2FCD+%7C+Automation;Open+to+DevOps+%26+Software+Engineering+Roles" />
 
-### ⚙️ Aspiring DevOps & CloudOps Engineer ☁️  
-### 💻 Full Stack Developer | 🚀 Open to DevOps & SDE Roles  
+<p>
+<img src="https://komarev.com/ghpvc/?username=narayanbehera14&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/narayanbehera14?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/narayanbehera14?affiliations=OWNER&style=social" />
+</p>
 
-</div>
+### ☁️ DevOps • Cloud • Full Stack Developer
 
----
+🎓 MCA Student @ Amity University Mumbai
 
-## 🧑‍💻 About Me
-
-- 🎓 MCA Student at **Amity University, Mumbai**
-- 💡 Passionate about **DevOps, Cloud, and Full Stack Development**
-- ⚙️ Exploring **CI/CD pipelines, automation, and cloud deployment**
-- 🌱 Learning **AWS, Docker, Kubernetes, Jenkins**
-- 🧠 Practicing **DSA (LeetCode)**
-- 🎯 Goal: Become a **DevOps / Cloud Engineer**
-
----
-
-## ⚙️ DevOps & Cloud Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github" />
+🚀 Open to DevOps, Cloud & Software Engineering Roles
 
 </div>
 
 ---
 
-## 🚀 Development Stack
+# 💫 About Me
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,tailwind,vscode" />
-
-</div>
+- 🎓 MCA Student passionate about Cloud & DevOps
+- ☁️ Hands-on experience with AWS Cloud Services
+- ⚙️ Building CI/CD pipelines using Jenkins & GitHub Actions
+- 🐳 Working with Docker & Kubernetes
+- 💻 Developing Full Stack applications using React & Node.js
+- 🧠 Solving Data Structures & Algorithms on LeetCode
+- 🚀 Goal: Build scalable cloud-native applications
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠 Tech Stack
+
+## ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,bash" />
 </p>
 
 ---
 
-## 📌 Current Focus
+## 💻 Development
 
-- ⚙️ Learning **DevOps tools & pipelines**
-- ☁️ Working with **AWS Cloud Services**
-- 🐳 Containerization using **Docker**
-- 🔄 CI/CD using **GitHub Actions / Jenkins**
-- 💻 Building **React + Node.js projects**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,tailwind,vscode" />
+</p>
 
 ---
 
-## 💼 Featured Projects
+## ⚡ Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions"/>
+
+</p>
+
 ---
+
+# 🚀 Featured Projects
 
 ## ☁️ Serverless Contact Form Website
 
-A serverless contact form application built using AWS cloud services for scalable and secure form handling 🚀
+Serverless web application built completely on AWS.
 
-![AWS](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+### Tech Used
 
-### 🔗 Links
-👉 [Live Demo](http://narayan-contact-form-project.s3-website.ap-south-1.amazonaws.com/contact-form-aws/)  
-👉 [GitHub Repo](https://github.com/narayanbehera14/Serverless-Contact-Form-Website)
+AWS S3 • API Gateway • Lambda • DynamoDB
 
-⭐ Serverless • ☁️ AWS • 🔗 API Gateway • ⚡ Lambda • 🗄️ DynamoDB
+### Features
 
----
+- Serverless Architecture
+- Secure API Integration
+- Form Validation
+- Scalable Backend
+- DynamoDB Storage
 
-## 🌍 YourTourGuide  
+🔗 Live Demo
 
-A modern Mumbai travel web app with clean UI, smart filters & serverless backend ☁️  
+http://narayan-contact-form-project.s3-website.ap-south-1.amazonaws.com/contact-form-aws/
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+🔗 GitHub
 
-### 🔗 Links
-👉 [Live Demo](https://your-tour-guide-2ffo.vercel.app/)  
-👉 [GitHub Repo](https://github.com/narayanbehera14/Your_Tour_Guide)  
-👉 [Project README](https://github.com/narayanbehera14/Your_Tour_Guide/blob/main/README.md)
-
-⭐ Explore • 🔍 Search • 🔐 Auth • 📱 Responsive  
+https://github.com/narayanbehera14/Serverless-Contact-Form-Website
 
 ---
 
-## 🧩 LeetCode Stats
+## 🌍 YourTourGuide
+
+Modern travel platform built using React and AWS.
+
+### Tech Used
+
+React • JavaScript • TailwindCSS • AWS Lambda • Vite
+
+### Features
+
+- Responsive UI
+- Search Functionality
+- Authentication
+- Modern Design
+- Fast Performance
+
+🔗 Live Demo
+
+https://your-tour-guide-2ffo.vercel.app/
+
+🔗 GitHub
+
+https://github.com/narayanbehera14/Your_Tour_Guide
+
+---
+
+# 📚 Certifications
+
+- ✅ AWS Cloud Practitioner
+- ✅ AWS Educate Cloud Operations
+- ✅ AWS Accreditation
+- ✅ Docker Fundamentals
+- ✅ Jenkins Fundamentals
+
+---
+
+# 🎯 Current Learning
+
+- Kubernetes
+- Terraform
+- AWS ECS & EKS
+- GitHub Actions
+- Linux Administration
+- Infrastructure as Code
+- Monitoring with Prometheus & Grafana
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/narayanbehera?theme=dark&border=0&radius=20" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=narayanbehera14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=narayanbehera14&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanbehera14&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 🏆 GitHub Trophy
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=narayanbehera14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="160" src="https://streak-stats.demolab.com?user=narayanbehera14&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanbehera14&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=narayanbehera14&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-## 🏆 Goals
+# 📈 Contribution Graph
 
-- 🚀 Become **DevOps Engineer**
-- ☁️ Master **AWS & Cloud Infrastructure**
-- ⚙️ Build scalable CI/CD pipelines
-- 💼 Crack **DevOps / SDE roles**
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=narayanbehera14&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 💻 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/narayanbehera?theme=dark&font=baloo&ext=contest"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Land a DevOps Internship
+- ☁️ Master AWS Cloud
+- 🐳 Deploy Kubernetes Applications
+- ⚙️ Build Production CI/CD Pipelines
+- 📦 Learn Terraform & IaC
+- 💼 Secure a Cloud/DevOps Engineer Role
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="mailto:beheranarayancs222330@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/narayan-behera-a8bbab262/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/narayan-behera-a8bbab262/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com/liju_02" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://github.com/narayanbehera14">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/liju_02">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 </div>
@@ -161,6 +222,6 @@ A modern Mumbai travel web app with clean UI, smart filters & serverless backend
 
 <div align="center">
 
-### ⭐ "Automate everything. Scale anything."
+## ⭐ *"Automate Everything • Deploy Anywhere • Scale Confidently."*
 
 </div>
